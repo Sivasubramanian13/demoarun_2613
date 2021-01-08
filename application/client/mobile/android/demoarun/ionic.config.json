@@ -1,0 +1,7 @@
+{
+  "name": "demoarun",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
